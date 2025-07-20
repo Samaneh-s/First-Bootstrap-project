@@ -1,2 +1,2 @@
 # First-Bootstrap-project
-Just for practise
+Just for practice
